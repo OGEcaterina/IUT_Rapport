@@ -1,5 +1,5 @@
 # IUT_Rapport
-Ici vous trouvez les rapport efectuées pendant les projets universitaires.
+Ici vous trouvez les rapport efectuées pour les projets universitaires à l'IUT d'Orsay
 
 Liste des projets:
 
